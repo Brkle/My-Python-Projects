@@ -13,7 +13,7 @@ turtle.title("Pong na Maro :)")
 window.tracer(0)
 #Poeni
 poeni_a = 0
-poeni_b = 9
+poeni_b = 0
 #Palka A
 palka_a = turtle.Turtle()
 palka_a.speed(0)
